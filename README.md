@@ -5,3 +5,4 @@
 # 35_ISLAB_Submission
 [35_Harshada manohar_ISLAB_Prolog programming assignment.pdf](https://github.com/Harshadam35/35_ISLAB_Submission/files/7446525/35_Harshada.manohar_ISLAB_Prolog.programming.assignment.pdf)
 [35_Harshada manohar_ISLAB_alpha beta pruning.pdf](https://github.com/Harshadam35/35_ISLAB_Submission/files/7462979/35_Harshada.manohar_ISLAB_alpha.beta.pruning.pdf)
+[35_Harshada manohar_ISLAB_Assignment 1A.pdf](https://github.com/Harshadam35/35_ISLAB_Submission/files/7510450/35_Harshada.manohar_ISLAB_Assignment.1A.pdf)
